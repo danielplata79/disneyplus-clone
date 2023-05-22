@@ -51,6 +51,7 @@ const Nav = styled.div`
     display: flex;
     align-items: center;
     padding: 0 36px;
+    box-shadow: rgb(0 0 0 /69%) 0px 26px 30px -10px,
 `
 
 const Logo = styled.img`
