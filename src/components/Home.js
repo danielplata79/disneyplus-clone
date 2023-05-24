@@ -11,7 +11,6 @@ function Home() {
       <ImgSlider /> 
       <Viewers />
       <Movies />
-      <Detail />
     </Container>
   )
 }
